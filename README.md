@@ -4,10 +4,11 @@
 1. Local environment with NodeJs 20 or above
 
 ## Run/Test application
-1. Open Terminal/git-bash and navigate to root folder of the project
-2. Run `npm install`, then
-3. `npm run app` for run the application
-4. `npm run test` for test the application
+1. Clone the project using this link - https://github.com/AmilaJayathilaka/10867ed2-f92c-47e2-8d5f-5c79f4d7e79a
+2. Open Terminal/git-bash and navigate to root folder of the project
+3. Run `npm install`, then
+4. `npm run app` for run the application
+5. `npm run test` for test the application
 
 # Coding challenge
 
