@@ -1,10 +1,10 @@
 # Instructions to Execute CLI Application
 
 ## Prerequisites
-1. Setup local environment with NodeJs >= 20
+1. Local environment with NodeJs 20 or above
 
 ## Run/Test application
-1. Open command promt/git-bash and navigate to root folder in the project
+1. Open Terminal/git-bash and navigate to root folder of the project
 2. Run `npm install`, then
 3. `npm run app` for run the application
 4. `npm run test` for test the application
