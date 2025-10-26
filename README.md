@@ -1,3 +1,14 @@
+# Instructions to Execute CLI Application
+
+## Prerequisites
+1. Setup local environment with NodeJs >= 20
+
+## Run/Test application
+1. Open command promt/git-bash and navigate to root folder in the project
+2. Run `npm install`, then
+3. `npm run app` for run the application
+4. `npm run test` for test the application
+
 # Coding challenge
 
 With this challenge we hope to learn how you approach technical tasks.
@@ -114,17 +125,6 @@ For us to run the application and tests, use one of the following options based 
 
 ## Continuous Integration
 1. Use GitHub Actions to run tests
-
-# Instructions to Execute CLI Application
-
-## Prerequisites
-1. Setup local environment with NodeJs >= 20
-
-## Run/Test application
-1. Open command promt/git-bash and navigate to root folder in the project
-2. Run `npm install`, then
-3. `npm run app` for run the application
-4. `npm run test` for test the application
 
 
 
